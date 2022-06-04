@@ -52,6 +52,7 @@ else:
         "BartForConditionalGeneration",
         "BartForQuestionAnswering",
         "BartForSequenceClassification",
+        "BartForMultitask",
         "BartModel",
         "BartPretrainedModel",
         "PretrainedBartModel",
